@@ -1,0 +1,8 @@
+.idea/*
+*.class
+*.iml
+target/*
+xmarket.iml
+
+*.iml
+src/main/resources/hibernate.cfg.xml
