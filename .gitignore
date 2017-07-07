@@ -2,7 +2,7 @@
 *.class
 *.iml
 target/*
-xmarket.iml
+cpay.iml
 
 *.iml
 src/main/resources/hibernate.cfg.xml
